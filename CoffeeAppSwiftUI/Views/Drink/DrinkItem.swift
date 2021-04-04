@@ -18,13 +18,14 @@ struct DrinkItem: View {
                 .frame(width: 300, height: 200)
                 .cornerRadius(8)
                 .shadow(radius: /*@START_MENU_TOKEN@*/10/*@END_MENU_TOKEN@*/)
-            VStack(alignment: .leading, spacing: 4.0) {
+            VStack(alignment: .leading, spacing: 5.0) {
                 Text(drink.name)
                     .foregroundColor(.primary)
                     .font(.headline)
                 Text(drink.description)
                     .font(.subheadline)
                     .foregroundColor(.secondary)
+                    .lineSpacing(5)
                     .multilineTextAlignment(.leading)
                     .lineLimit(2)
             }

@@ -15,7 +15,7 @@ struct DrinkRow: View {
         VStack(alignment: .leading, spacing: 0.0) {
             Text(self.categoryName)
                 .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
-                .padding([.leading, .top], 16)
+                .padding([.leading], 18)
             ScrollView (.horizontal, showsIndicators: false){
                 HStack(alignment: .top) {
                     ForEach (drinks, id: \.id) { drink in
@@ -30,10 +30,9 @@ struct DrinkRow: View {
                         .buttonStyle(FlatLinkStyle())
                     }
                 }
-                .padding([.leading, .top, .bottom], 16)
+                .padding([.leading, .top], 18)
             }
         }
-        .padding(-16)
     }
 }
 

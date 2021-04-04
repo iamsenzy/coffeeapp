@@ -19,14 +19,14 @@ struct DrinkDetail: View {
                 Image(systemName: "arrow.left")
                     .aspectRatio(contentMode: .fit)
                     .foregroundColor(.white)
-                    Text("Go back")
+                    Text("Back")
                         .foregroundColor(.white)
                 }
             }
     }
     
     var body: some View {
-        ScrollView {
+        VStack {
             ZStack (alignment: .bottom) {
                 Image(drink.imageName)
                     .resizable()
