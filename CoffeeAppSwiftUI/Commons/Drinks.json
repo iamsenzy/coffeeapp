@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1001,
+      "name": "Affogato",
+      "description": "The affogato is an excuse to enjoy a scoop of ice cream any time of day. Served with a scoop of ice cream and a shot of espresso, or two. ",
+      "imageName": "affogato",
+      "category": "hot"
+    },
+    {
+      "id": 1002,
+      "name": "Espresso",
+      "description": "An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos.",
+      "imageName": "espresso",
+      "category": "hot"
+    },
+    {
+      "id": 1003,
+      "name": "Americano",
+      "description": "With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water. Pro tip: if you’re making your own, pour the espresso first, then add the hot water.",
+      "imageName": "americano",
+      "category": "hot"
+    },
+    {
+      "id": 1004,
+      "name": "Cappucchino",
+      "description": "Cappucchino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.",
+      "imageName": "cappucchino",
+      "category": "hot"
+    },
+    {
+      "id": 1005,
+      "name": "Cold Brew",
+      "description": "The trendiest of the iced coffee bunch, cold brew coffees are made by steeping coffee beans from anywhere between 6-36 hours, depending on how strong you would like your cold brew. Once the beans are done steeping, add cold milk or cream.",
+      "imageName": "coldBrew",
+      "category": "cold"
+    },
+    {
+      "id": 1006,
+      "name": "Ice Americano",
+      "description": "Espresso shots topped with cold water produce a light layer of crema, then served over ice. The result: a wonderfully rich cup with depth and nuance.",
+      "imageName": "iceAmericano",
+      "category": "cold"
+    },
+    {
+      "id": 1007,
+      "name": "Frappuccino",
+      "description": "Frappuccino is a blended iced coffee drink that’s topped with whipped cream and syrup.",
+      "imageName": "frappuccino",
+      "category": "cold"
+    },
+    {
+      "id": 1008,
+      "name": "Ice Latte",
+      "description": "This new espresso classic combines shots of espresso, whole milk and ice for a bold and roasty new way to sip.",
+      "imageName": "iceLatte",
+      "category": "cold"
+    }
+]
