@@ -1,4 +1,4 @@
-# CoffeeApp
+# CoffeeApp - in SwiftUI
 
 ![CoffeeApp](/coffeeApp.png)
 
