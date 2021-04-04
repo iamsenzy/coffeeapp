@@ -1,6 +1,6 @@
 # CoffeeApp
 
-![CoffeeApp](/coffeeApp.gif)
+![CoffeeApp](/coffeeApp.png)
 
 ## Images
 [Affogato](https://alushlifemanual.com/wp-content/uploads/2020/12/Boozy-Affogato-720x720.jpg)
