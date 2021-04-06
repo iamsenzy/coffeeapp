@@ -23,9 +23,6 @@ struct Home: View {
                 DrinkRow(categoryName: "\(key) Drinks".uppercased(), drinks: self.categories[key] ?? [])
                     .padding([.top, .bottom], 16)
             }
-            .listStyle(SidebarListStyle())
-            .navigationBarTitle("COFFEE APP")
-            .padding([.leading,.trailing], -25)
         }
         .navigationViewStyle(StackNavigationViewStyle())
     }
